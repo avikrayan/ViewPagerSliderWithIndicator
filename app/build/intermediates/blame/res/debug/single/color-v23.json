@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/avik/Development/ViewPagerSliderWithIndicator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/avik/Development/ViewPagerSliderWithIndicator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/ViewPagerSliderWithIndicator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/avik/Development/ViewPagerSliderWithIndicator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/avik/Development/ViewPagerSliderWithIndicator/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/ViewPagerSliderWithIndicator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/avik/Development/ViewPagerSliderWithIndicator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/avik/Development/ViewPagerSliderWithIndicator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/avik/Development/ViewPagerSliderWithIndicator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/avik/Development/ViewPagerSliderWithIndicator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/avik/.android/build-cache/3de8e16bcd4ca8282f4ae1f1f75278c25f2f93ea/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]
